@@ -1,2 +1,1 @@
-Due to having limitation of uploading a file above 25 MB, we could not upload the video to GitHub.
-Here is the demo video in detecting interaction: [demo link](https://myuva-my.sharepoint.com/:v:/g/personal/jgh6ds_virginia_edu/ER-oJLD0EytGpHk3U4JTeVUBs-VxMx8Vwn6Gd_i2XiLovA?e=aiFxu4)
+Due to GitHub’s 25 MB file size limit, we were unable to upload the video directly. Here is the demo video showcasing interaction detection: [demo video link](https://myuva-my.sharepoint.com/:v:/g/personal/jgh6ds_virginia_edu/ER-oJLD0EytGpHk3U4JTeVUBs-VxMx8Vwn6Gd_i2XiLovA?e=aiFxu4)
